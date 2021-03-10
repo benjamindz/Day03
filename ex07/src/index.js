@@ -8,7 +8,7 @@ function main() {
     properCamelCase = "A String";
     titleCaseOver = 9000;
 
-    return{
+    return {
         studlyCapVar,
         properCamelCase,
         titleCaseOver
